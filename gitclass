@@ -1,1 +1,6 @@
+public class a{
+int a=12;
 
+int b=20;
+int c=a+b;
+system.out.println("c value==========:::"+c);}
